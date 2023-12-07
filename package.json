@@ -1,0 +1,16 @@
+{
+  "name": "backend-development",
+  "version": "1.0.0",
+  "description": "for use in all backend development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Baijnath Mahto",
+  "license": "ISC"
+}
